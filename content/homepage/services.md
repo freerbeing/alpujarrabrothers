@@ -1,29 +1,29 @@
 ---
-title: "The Services I Offer"
+title: "What AB Offer"
 header_menu_title: "Services"
-navigation_menu_title: "My Services"
+navigation_menu_title: "Services"
 weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+In malesuada sed sem id sodales. Proin tempor dictum ligula in pretium.
+- Mauris hendrerit commodo urna, a interdum ante,
+- Quisque facilisis, elit eget viverra auctor, dolor mi dapibus urn,
+- Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+*Nunc interdum dignissim quam id dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas a velit non libero lacinia lacinia quis a sem.*
 
 ---
 
-### Nutrition Coaching
+### Initiation
 
-This is not an easy task. 
-You will likely have to pay money for this.
+Phasellus scelerisque elementum fringilla.
+Nullam in odio imperdiet, tristique felis eget, volutpat ipsum.
 
-### Chef Consulting
+### Mentoring
 
-I can raise your table culture!
+Nunc interdum dignissim quam id dictum!
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+![Let us get started on a clean slate](images/youth.jpg)
 
-Want to learn more about my services? See [dedicated page](services) with more details.
+Mauris elementum ultrices metus a feugiat. Duis tempus sem lectus, ac iaculis quam fringilla id. Aenean vulputate lorem nisl.
