@@ -48,15 +48,21 @@
 }
 
 html {
-    font-family: 'Barlow-Regular';
+    font-family: 'Barlow-Regular', sans-serif;
 }
 body {
-    font-family: 'Barlow-Regular';
+    font-family: 'Barlow-Regular', sans-serif;
 }
 h1.blog-title, h2.blog-description, h2.post-title{
     color: #2A3E59;
-    font-family: 'Barlow-Regular';
+    font-family: 'Barlow-Regular', sans-serif;
 }
 h3, h4, h5, h6 {
-  font-family: 'Barlow-Regular';
+  font-family: 'Barlow-Regular', sans-serif;
+}
+#site-head .blog-description, #site-head.withCenteredImage .blog-description {
+    font-family: 'Barlow-Regular',sans-serif;
+}
+#site-head a.btn, #site-head.withCenteredImage a.btn {
+    font-family: 'Barlow-Regular', sans-serif;
 }
