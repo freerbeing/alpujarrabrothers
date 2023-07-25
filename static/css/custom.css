@@ -1,6 +1,65 @@
 /* Custom  */
 
 :root {
-  --section-dark-bg-color: #37501a;
+
+    /* === Cover / Landing area === */
+--cover-text-color: #293d57;
+    /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+--highlight: #678ab7;
+    --highlight-contrast: var(--cover-text-color);
+    /*iverse colors used for :hover */
+    --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse-contrast: white;
+
+    /* visual guard around title and description, when the feature is enabled */
+    --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
+    --cover-title-text-shadow: white 0px 0px 7px;
+
+
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-text-color: #293d57;
+
+
+    /* === Alternating content (post) sections  === */
+    /* Light section - text color */
+    --section-light-text-color: #3a4145;
+    /* Light section - background color */
+    --section-light-bg-color: #f2efe8;
+
+    /* Dark section - text color */
+    --section-dark-text-color: var(--section-light-bg-color);
+    /* Dark section - background color */
+--section-dark-bg-color: #293d57;
+
+    /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
+    --section-uni-quote: grey;
+    /* Light&Dark section `code` a bit darker than 'Light section - background color' */
+    --section-uni-code-bg-color: #e0ded7;
+
+
+    /* === Footer === */
+    --footer-color-background: #22343a;
+    --footer-color: #bbc7cc;
 }
 
+:root {
+
+
+
+}
+
+h1.blog-title{
+    color: #293d57;
+}
+h2.blog-description{
+    color: #293d57;
+}
+/*.post-holder{
+  background-color: #ced1d5;
+}
+.post-after.light{
+  color: #ced1d5;
+}
+.post-after.dark{
+  color: #ced1d5;
+}*/
