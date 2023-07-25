@@ -42,24 +42,21 @@
     --footer-color: #bbc7cc;
 }
 
-:root {
-
-
-
+@font-face {
+    font-family: font;
+    src: url('/fonts/Barlow-Regular.woff2');
 }
 
-h1.blog-title{
+html {
+    font-family: 'Barlow-Regular';
+}
+body {
+    font-family: 'Barlow-Regular';
+}
+h1.blog-title, h2.blog-description{
     color: #293d57;
+    font-family: 'Barlow-Regular';
 }
-h2.blog-description{
-    color: #293d57;
+h3, h4, h5, h6 {
+  font-family: 'Barlow-Regular';
 }
-/*.post-holder{
-  background-color: #ced1d5;
-}
-.post-after.light{
-  color: #ced1d5;
-}
-.post-after.dark{
-  color: #ced1d5;
-}*/
