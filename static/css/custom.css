@@ -17,7 +17,7 @@
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: #293d57;
+    --sticky-menu-text-color: #2A3E59;
 
 
     /* === Alternating content (post) sections  === */
@@ -29,7 +29,7 @@
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
---section-dark-bg-color: #293d57;
+--section-dark-bg-color:   #2A3E59;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;
@@ -38,12 +38,12 @@
 
 
     /* === Footer === */
-    --footer-color-background: #22343a;
+    --footer-color-background:  #2A3E59;
     --footer-color: #bbc7cc;
 }
 
 @font-face {
-    font-family: font;
+    font-family: 'Barlow-Regular';
     src: url('/fonts/Barlow-Regular.woff2');
 }
 
@@ -53,8 +53,8 @@ html {
 body {
     font-family: 'Barlow-Regular';
 }
-h1.blog-title, h2.blog-description{
-    color: #293d57;
+h1.blog-title, h2.blog-description, h2.post-title{
+    color: #2A3E59;
     font-family: 'Barlow-Regular';
 }
 h3, h4, h5, h6 {
