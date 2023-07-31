@@ -57,6 +57,9 @@ h1.blog-title, h2.blog-description, h2.post-title{
     color: #2A3E59;
     font-family: 'Barlow-Regular', sans-serif;
 }
+.thin{
+    font-weight:200;
+}
 h3, h4, h5, h6 {
   font-family: 'Barlow-Regular', sans-serif;
 }
