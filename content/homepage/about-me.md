@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/man.jpg)
+![Men's Group](images/men-track.jpg)
 
 ##### Experience
 

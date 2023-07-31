@@ -24,6 +24,6 @@ Nullam in odio imperdiet, tristique felis eget, volutpat ipsum.
 
 Nunc interdum dignissim quam id dictum!
 
-![Let us get started on a clean slate](images/youth.jpg)
+![Let us get started on a clean slate](images/young-man-mist.jpg)
 
 Mauris elementum ultrices metus a feugiat. Duis tempus sem lectus, ac iaculis quam fringilla id. Aenean vulputate lorem nisl.

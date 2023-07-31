@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/almond-1287798-54.jpg"
+header_image: "images/men-on-mountain-sunset.jpg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
