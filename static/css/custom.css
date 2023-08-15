@@ -69,3 +69,12 @@ h3, h4, h5, h6 {
 #site-head a.btn, #site-head.withCenteredImage a.btn {
     font-family: 'Barlow-Regular', sans-serif;
 }
+.fa-asterisk{
+    display:none;
+}
+ul.fa-li{
+    list-style-type:none;
+}
+.fa-li {
+    list-style-type:none;
+}

@@ -10,5 +10,7 @@ header_logo: "images/icon-blue.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Alpujarra Brothers"
-header_subheadline: "<b>Blokes circling-up since 2017</b>"
+header_subheadline: "Supporting and mentoring young men<br>Modelling healthy masculinity<br>Rites of passage/Initiations<br>Community support"
 ---
+
+
