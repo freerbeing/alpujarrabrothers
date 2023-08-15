@@ -32,7 +32,7 @@ Even though this is clearly a false belief, in practise it too often seems to be
 
 And what is not felt often comes to the surface in damaging ways: toxic behaviour, aggression, addiction and/or ill health. This has terrible consequences for the men in question, their loved ones and society as a whole.
 
-> The uninitiated man will burn down the village..
+> The uninitiated man will burn down the village just to feel the warmth
 
 ### Our philosophy
 (just notes at the moment, let’s leave this out for now)
