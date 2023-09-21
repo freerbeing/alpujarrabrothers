@@ -39,6 +39,6 @@ And what is not felt often comes to the surface in damaging ways: toxic behaviou
 
 Nunc interdum dignissim quam id dictum!
 
-![Let us get started on a clean slate](images/young-man-mist.jpg)
+![Let us get started on a clean slate](images/youth.jpg)
 
 Mauris elementum ultrices metus a feugiat. Duis tempus sem lectus, ac iaculis quam fringilla id. Aenean vulputate lorem nisl.

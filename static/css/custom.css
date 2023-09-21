@@ -53,7 +53,10 @@ html {
 body {
     font-family: 'Barlow-Regular', sans-serif;
 }
-h1.blog-title, h2.blog-description, h2.post-title{
+h2.blog-description, h2.post-title{
+    font-family: 'Barlow-Regular', sans-serif;
+}
+h1.blog-title{
     color: #ffffff;
     font-family: 'Barlow-Regular', sans-serif;
 }
@@ -77,4 +80,7 @@ ul.fa-li{
 }
 .fa-li {
     list-style-type:none;
+}
+#site-head .blog-description, #site-head.withCenteredImage .blog-description {
+    font-weight: 600;
 }

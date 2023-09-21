@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-![Men's Group](images/men-track.jpg)
+![Men's Group](images/men-on-mountain-sunset.jpg)
 
 #### What we offer
 
