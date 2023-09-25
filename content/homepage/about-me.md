@@ -6,7 +6,7 @@ header_menu: true
 
 #### Why do we need men's groups?
 
-There is a pronounced lack of positive male role models in society as a whole.  Lonely, angry, selfish, old yet immature men are somehow in charge of running countries, corporations and cultural institutions and the result is a disaster.  Greed overrules cooperation, short term thinking is put before the consideration of future generations.  Violence and war are accepted as being legitimate and representative of human nature. What we think of as the ‘normal’ state of affair is really an imbalance. Destruction and aggression rather than nurturing and caring, found in society as a whole as well as in the personalities of many individual men.  Whilst it would be oversimplifying to link all the wrongs of the world to toxic masculinity, healing men might yet proof to be one of the most effective tools in saving the world
+There is a pronounced lack of positive male role models in society as a whole.  Lonely, angry, selfish, old yet immature men are somehow in charge of running countries, corporations and cultural institutions and the result is a disaster.  Greed overrules cooperation, short term thinking is put before the consideration of future generations.  Violence and war are accepted as being legitimate and representative of human nature. What we think of as the ‘normal’ state of affair is really an imbalance. Destruction and aggression rather than nurturing and caring are found in society as a whole as well as in the personalities of many individual men.  Whilst it would be oversimplifying to link all the wrongs of the world to toxic masculinity, healing men might yet proof to be one of the most effective tools in saving the world
 
 As it stands it is very difficult for anyone to see a way forward in this overly complex dog-eat-dog world .  But especially young men lack guidance.  There is very few good, loving and capable male role models in the public sphere.  Healthy men are hard to find.
 
@@ -22,6 +22,8 @@ The Alpujarra Brothers seek to offer guidance, support and hope to young men loc
 ---
 
 #### Toxic masculinity
+Men out of Balance
+Imbalanced masculinity
 (argh)
 
 *Men are incapable of dealing with their emotions*

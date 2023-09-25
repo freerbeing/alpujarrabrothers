@@ -32,11 +32,11 @@ mentors is never about making him wrong, rather more about pointing out
 options and future choices that he perhaps hadn’t realised or thought about
 before – in that sense we are opening up his “possibility sphere”, bringing in
 other angles and showing that we always have choices in how we respond.
+Once these choices are made we work with weekly goals.
 
-Role modelling, leading by example, trust
-
-Weekly goals or stretches
-Stimulating o new possibilities
+For thew mentoring process to be successful there needs to be trust, and this trust needs to be earned.
+In order to do so we strive to lead by example, to be men of integrity, to practice what we preach.
+Being a good role model goes beyond the mentoring process.
 
 ###### Here are some key questions that we might ask in the mentoring process.
 
@@ -51,16 +51,24 @@ What inspires you in life?
 
 #### Initiations/Rite of passage:
 
-Male initiation is vital in building a safe and strong community.  We are honoured to offer this service here in the Alpujarras:
+Male initiation is vital in building a safe and strong community.  We are honoured to offer this service here in the Alpujarra:
 
-open to any man, young or old, who is willing to make a change in their life, deal with their shit..  at this point adults only, 18+ because...
+In traditional societies rite-of-passage rituals were very well established, but very few modern men have gone through a meaningful initiation.
+It's never too late, you can make that step at any age from 18 years onwards.
+Initiation is open to any man who is willing to "go there" and explore his inner-self, even if it involves making himself vulnerable.
 
-all traditional societies at one stage offered rite of passage rituals to both men and women,  Whole village community, elders, wisdom being passed on..  very few modern men have gone through an initiation.  it’s never too late, you can finally become a real grown up at age 18, 25, 40, 60 or even 85! What we do will be a surprise, expect the unexpected, be ready for a life changing experience. Precondition to joining is a real desire to ‘go there’, even if or especially when it involves making yourself vulnerable.
+Our Initiations are run as weekend retreats, away from familiar surroundings and away from contact with the outside world (except emergencies).
+They are staffed by volunteers, all of whom have gone through initiation themselves.
+No-one benefits financially from these weekends and they are fully self-funded.
+
+What we actually do at the weekends will be a surprise, but expect a journey into positive manhood.
+For most of us our initiation has been a life-changing experience.
 
 #### Community support:
 
 It takes a whole community to rear a child.  Where that has been missing we hope to step in.
-Also, as a strong group of willing and able men we offer support for local institutions, work days, cultural events...
+Also, as a strong group of willing and able men we offer support for local institutions and individuals, this can be in form of work days or whatever else may be needed.
+Occasionally we organise cultural events, talks or open evenings.
 
 #### Weekly meetings:
 
