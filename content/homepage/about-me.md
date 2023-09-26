@@ -21,10 +21,8 @@ The Alpujarra Brothers seek to offer guidance, support and hope to young men loc
 
 ---
 
-#### Toxic masculinity
-Men out of Balance
-Imbalanced masculinity
-(argh)
+#### Men out of Balance
+#### Imbalanced masculinity
 
 *Men are incapable of dealing with their emotions*
 
@@ -34,13 +32,4 @@ Even though this is clearly a false belief, in practise it too often seems to be
 
 And what is not felt often comes to the surface in damaging ways: toxic behaviour, aggression, addiction and/or ill health. This has terrible consequences for the men in question, their loved ones and society as a whole.
 
-> The uninitiated man will burn down the village just to feel the warmth
-
-### Our philosophy
-(just notes at the moment, let’s leave this out for now)
-
-Nunc interdum dignissim quam id dictum!
-
-![Let us get started on a clean slate](images/youth.jpg)
-
-Mauris elementum ultrices metus a feugiat. Duis tempus sem lectus, ac iaculis quam fringilla id. Aenean vulputate lorem nisl.
+> If the young are not initiated in the tribe, they will burn down the village just to feel its warmth.
