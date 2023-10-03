@@ -9,8 +9,8 @@ header_menu: true
 **You can call, text or email either of the following members of AB:**
 
 Simon:
-{{<icon class="fa fa-envelope">}}&nbsp;{{< cloakemail "jane.doe@example.com" >}}\
-{{<icon class="fa fa-phone">}}&nbsp;[+34 1111 555555](tel:+341111555555)
+{{<icon class="fa fa-envelope">}}&nbsp;{{< cloakemail "simon.birkby@gmail.com" >}}\
+{{<icon class="fa fa-phone">}}&nbsp;[+34 684 34 32 22](tel:+34684343222)
 
 Peter:
 {{<icon class="fa fa-envelope">}}&nbsp;{{< cloakemail "peter@mannenpower.nl" >}}\
