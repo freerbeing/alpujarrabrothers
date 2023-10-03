@@ -32,7 +32,7 @@ African proverb
 
 So, on the one side, there are men who are aggresive, self-centred, violent and/or sexual predators.
 On the other end of the spectrum are men who are unable to assert themselves, afraid of their own masculinity, unable to stand-up for themselevs or others.
-The latter are often "nice guys" but, unfortunately, nice guys with no backbone will not stop their aggresive coiunterparts from burning down the village.
+The latter are often "nice guys" but, unfortunately, nice guys with no backbone will not stop their aggresive counterparts from burning down the village.
 
 But this does not need to be a world of either wolf or sheep.
 When men learn to feel their grief, to transform anger and to overcome fear, they become kind and capable men.
