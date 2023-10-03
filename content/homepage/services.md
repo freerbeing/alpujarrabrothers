@@ -72,7 +72,7 @@ Occasionally we organise cultural events, talks or open evenings.
 
 #### Weekly meetings:
 
-As what we do at our meetings is based on trust, confidentiality and the willingness to make oneself vulnerable and ‘go there’, we require a safe container and are therefore a closed group.  The first step to joining is going through the initiation.  Initiated men can then request to join the group and go through an induction process, being handed the tools and shown how to use them.  Commitment
+As what we do at our meetings is based on trust, confidentiality and the willingness to make oneself vulnerable and ‘go there’, we require a safe container and are therefore a closed group.  The first step to joining is going through the initiation.  Initiated men can then request to join the group and go through an induction process, being handed the tools and shown how to use them.
 
 #### Wisdom of elders:
 
