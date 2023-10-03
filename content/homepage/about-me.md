@@ -28,6 +28,7 @@ Even though this is clearly a false belief, in practise it too often seems to be
 And what is not felt often comes to the surface in damaging ways: toxic behaviour, aggression, addiction and/or ill health. This has terrible consequences for the men in question, their loved ones and society as a whole.
 
 > The uninitiated man will burn down the village just to feel its warmth.
+
 African proverb
 
 So, on the one side, there are men who are aggresive, self-centred, violent and/or sexual predators.
