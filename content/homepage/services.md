@@ -77,3 +77,5 @@ As what we do at our meetings is based on trust, confidentiality and the willing
 #### Wisdom of elders:
 
 We are constantly being supported and trained by elders of the New Mankind movement and thus one of the points of dissemination of this beautiful transformative, both on a personal as well a a social level, movement.  Open evenings with guest speakers
+
+![Mentoring young men](images/youth.jpg)
