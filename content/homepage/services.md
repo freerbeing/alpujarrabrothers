@@ -34,7 +34,7 @@ before – in that sense we are opening up his “possibility sphere”, bringin
 other angles and showing that we always have choices in how we respond.
 Once these choices are made we work with weekly goals.
 
-For thew mentoring process to be successful there needs to be trust, and this trust needs to be earned.
+For the mentoring process to be successful there needs to be trust, and this trust needs to be earned.
 In order to do so we strive to lead by example, to be men of integrity, to practice what we preach.
 Being a good role model goes beyond the mentoring process.
 

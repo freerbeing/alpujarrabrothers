@@ -21,7 +21,6 @@ The Alpujarra Brothers seek to offer guidance, support and hope to young men loc
 
 ---
 
-#### Men out of Balance
 #### Imbalanced masculinity
 
 *Men are incapable of dealing with their emotions*
@@ -32,4 +31,12 @@ Even though this is clearly a false belief, in practise it too often seems to be
 
 And what is not felt often comes to the surface in damaging ways: toxic behaviour, aggression, addiction and/or ill health. This has terrible consequences for the men in question, their loved ones and society as a whole.
 
-> If the young are not initiated in the tribe, they will burn down the village just to feel its warmth.
+> The uninitiated man will burn down the village just to feel its warmth.
+African proverb
+
+So, on the one side, there are men who are aggresive, self-centred, violent and/or sexual predators.
+On the other end of the spectrum are men who are unable to assert themselves, afraid of their own masculinity, unable to stand-up for themselevs or others.
+The latter are often "nice guys" but, unfortunately, nice guys with no backbone will not stop their aggresive coiunterparts from burning down the village.
+
+But this does not need to be a world of either wolf or sheep.
+When men learn to feel their grief, to transform anger and to overcome fear, they become kind and capable men.
