@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/icon-blue.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "AlpujarraBrothers"
+header_headline: "Alpujarra Brothers"
 header_subheadline: "Modelling healthy masculinity, rites of passage and initiations, supporting and mentoring young men, and community support"
 ---
 
