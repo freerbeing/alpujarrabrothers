@@ -6,7 +6,7 @@ header_menu: true
 
 #### How to get in touch
 
-**You can call, text or email either of the following members of AB:**
+**You can call, text or email AB here:**
 
 Peter:
 {{<icon class="fa fa-envelope">}}&nbsp;{{< cloakemail "peter@mannenpower.nl" >}}\
