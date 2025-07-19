@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Wed, 28 Jun 2023 15:00:50 +0200</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>Header blockquote thing</description>
+      <description>&lt;h1 id=&#34;header&#34;&gt;Header&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;blockquote thing&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jun 2023 15:00:40 +0200</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>header skldjv sldk ncvlsdk n</description>
+      <description>&lt;h2 id=&#34;header&#34;&gt;header&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;skldjv sldk ncvlsdk n&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
