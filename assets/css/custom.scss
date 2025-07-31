@@ -1,0 +1,98 @@
+/* Custom  */
+
+:root {
+
+    /* === Cover / Landing area === */
+--cover-text-color: #ffffff;
+    /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+--highlight: #678ab7;
+    --highlight-contrast: var(--cover-text-color);
+    /*iverse colors used for :hover */
+    --highlight-inverse: var(--cover-text-color);
+    --highlight-inverse-contrast: white;
+
+    /* visual guard around title and description, when the feature is enabled */
+    --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
+    --cover-title-text-shadow: black 0px 0px 7px;
+
+
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-text-color: #2A3E59;
+
+
+    /* === Alternating content (post) sections  === */
+    /* Light section - text color */
+    --section-light-text-color: #3a4145;
+    /* Light section - background color */
+    --section-light-bg-color: #f2efe8;
+
+    /* Dark section - text color */
+    --section-dark-text-color: var(--section-light-bg-color);
+    /* Dark section - background color */
+--section-dark-bg-color:   #2A3E59;
+
+    /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
+    --section-uni-quote: grey;
+    /* Light&Dark section `code` a bit darker than 'Light section - background color' */
+    --section-uni-code-bg-color: #e0ded7;
+
+
+    /* === Footer === */
+    --footer-color-background:  #2A3E59;
+    --footer-color: #bbc7cc;
+}
+
+@font-face {
+    font-family: 'Barlow-Regular';
+    src: url('/fonts/Barlow-Regular.woff2');
+}
+
+html {
+    font-family: 'Barlow-Regular', sans-serif;
+}
+body {
+    font-family: 'Barlow-Regular', sans-serif;
+}
+h2.blog-description, h2.post-title{
+    font-family: 'Barlow-Regular', sans-serif;
+}
+h1.blog-title{
+    color: #ffffff;
+    font-family: 'Barlow-Regular', sans-serif;
+}
+.thin{
+    font-weight:200;
+}
+h3, h4, h5, h6 {
+  font-family: 'Barlow-Regular', sans-serif;
+}
+#site-head .blog-description, #site-head.withCenteredImage .blog-description {
+    font-family: 'Barlow-Regular',sans-serif;
+}
+#site-head a.btn, #site-head.withCenteredImage a.btn {
+    font-family: 'Barlow-Regular', sans-serif;
+}
+.fa-asterisk{
+    display:none;
+}
+ul.fa-li{
+    list-style-type:none;
+}
+.fa-li {
+    list-style-type:none;
+}
+#site-head .blog-description, #site-head.withCenteredImage .blog-description {
+    font-weight: 600;
+}
+
+#site-head .title-and-description-guard, #site-head.withCenteredImage .title-and-description-guard {
+margin: auto;
+margin-top: 0.3em;
+padding-top: 0em;
+padding-left: 0.6em;
+padding-right: 0.6em;
+padding-bottom: 0.6em;
+background-color: var(--cover-title-and-description-guard-bg-color);
+border-radius: 24px;
+width: fit-content;
+}
