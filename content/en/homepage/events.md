@@ -22,3 +22,5 @@ Venue: House of Light, Bayacas, Orgiva
 
 A chance for men who are interested in joining us regularly to experience a weekly circle
 
+For further information and/or to apply to be placed on our candidates list, please use the contacts below
+
