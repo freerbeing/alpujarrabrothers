@@ -3,9 +3,9 @@
 :root {
 
     /* === Cover / Landing area === */
---cover-text-color: #ffffff;
+    --cover-text-color: #ffffff;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
---highlight: #678ab7;
+    --highlight: #678ab7;
     --highlight-contrast: var(--cover-text-color);
     /*iverse colors used for :hover */
     --highlight-inverse: var(--cover-text-color);
@@ -29,7 +29,7 @@
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
---section-dark-bg-color:   #2A3E59;
+    --section-dark-bg-color:   #2A3E59;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;
