@@ -13,7 +13,7 @@ header_menu: true
 Fecha: 07/11/25 - 09/11/25\
 Lugar: House of Light, Bayacas, Orgiva
 
-Para obtener más información sobre nuestros fines de semana de iniciación, consulte la sección «Qué ofrecemos» más arriba.
+[Más información sobre nuestra ceremonia de iniciación](initation-ceremony).
 
 ### Open Circle 2025
 
