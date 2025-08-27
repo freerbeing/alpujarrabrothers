@@ -9,7 +9,8 @@ Como parte del movimiento New Mankind, nos inspiramos y seguimos el modelo de 'A
 
 **Salvando al mundo de hombre en hombre**
 
-En el Reino Unido, ABOB apoya a hombres de todas las edades, de todos los ámbitos de la vida y en todo el país, a través de mentorías, iniciaciones y reuniones semanales de grupos locales. ABOB también trabaja con los servicios de Vigilancia Penitenciaria y, es extremadamente exitoso ayudando a jóvenes con problemas, a cambiar sus vidas.\
+En el Reino Unido, ABOB apoya a hombres de todas las edades, de todos los ámbitos de la vida y en todo el país, a través de mentorías, iniciaciones y reuniones semanales de grupos locales.\
+ABOB también trabaja con los servicios de Vigilancia Penitenciaria y, es extremadamente exitoso ayudando a jóvenes con problemas, a cambiar sus vidas.\
 Aquí en España, los Hermanos Alpujarra nos reunimos desde 2018.\
 Trabajamos juntos para convertirnos en los hombres que queremos ser: emocionalmente equilibrados y maduros, capaces de cuidar de nosotros mismos y de los demás, hombres de honor e integridad.\
 Nos esforzamos por ser mejores padres, mejores compañeros, mejores amigos, pero sobre todo mejores hombres.
