@@ -48,7 +48,7 @@ title = "Alpujarra Brothers"
     copyright = "© Alpujarra Brothers"
 
     # Show a menu of languages available
-    language_menu = false
+    language_menu = true
 
     # Show also a language menu item for the current language, if false only
     # show the remaining languages
@@ -85,8 +85,8 @@ title = "Alpujarra Brothers"
     languageName = "English"
     contentDir = "content/en"
 
-  [languages.de]
-    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
+  [languages.es]
+    title = "Alpujarra Brothers, Men's Group"
     weight = 20
-    contentDir = "content/de"
-    languageName = "Deutsch"
+    contentDir = "content/es"
+    languageName = "Espanol"
