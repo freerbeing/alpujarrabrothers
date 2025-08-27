@@ -96,3 +96,8 @@ background-color: var(--cover-title-and-description-guard-bg-color);
 border-radius: 24px;
 width: fit-content;
 }
+.fa-ul {
+    list-style-type: disc;
+    margin-left: var(--fa-li-margin,2.5em);
+    padding-left: 0;
+}

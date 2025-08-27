@@ -13,7 +13,7 @@ header_menu: true
 Date: Friday November 7th - Sunday 9th\
 Venue: House of Light, Bayacas, Orgiva
 
-For more about our Initiation Weekends, please see above under "We Offer"
+[Read more detail about our Initiation Ceremony](initation-ceremony)
 
 ### Open Circle 2025
 
