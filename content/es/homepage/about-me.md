@@ -41,7 +41,7 @@ Pero no es así.
 Y lo que no se siente a menudo sale a la superficie de formas perjudiciales: comportamiento tóxico, agresividad, adicción y/o mala salud.\
 Esto tiene consecuencias terribles para los hombres en cuestión, sus seres queridos y la sociedad en su conjunto.
 
-> El hombre inexperto quemará la aldea solo para sentir su calor.
+> El hombre no iniciado quemará la aldea solo para sentir su calor.
 
 Proverbio africano
 
