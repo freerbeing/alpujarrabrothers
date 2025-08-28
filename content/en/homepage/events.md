@@ -10,7 +10,7 @@ header_menu: true
 
 ### Initiation Weekend 2025 (IW25)
 
-Date: Friday November 7th - Sunday 9th\
+Date: 07/11/25 - 09/11/25\
 Venue: House of Light, Bayacas, Orgiva
 
 [Read more detail about our Initiation Ceremony](initation-ceremony)

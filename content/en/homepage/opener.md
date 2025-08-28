@@ -5,7 +5,7 @@ weight: 1
 
 Alpujarra Brothers are a group of men who have come together to build trust and comradeship with the aim of modelling healthy male behaviour.\
 We meet up on a weekly basis to support each other in order to support the community.\
-Part of the New Mankind movement, we are inspired by and modelled on ‘A Band of Brothers’(ABOB), a UK charity.
+Part of the New Mankind movement, we are inspired by and modelled on ‘A Band of Brothers’ (ABOB), a UK charity.
 
 **Saving the world one man at a time**
 

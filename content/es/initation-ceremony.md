@@ -36,3 +36,7 @@ Conviértete en el hombre que estás destinado a ser.***
 
 ---
 
+### Initiation Weekend 2025 (IW25)
+
+Fecha: 07/11/25 - 09/11/25\
+Lugar: House of Light, Bayacas, Orgiva

@@ -34,3 +34,7 @@ Become the man you are meant to be.***
 
 ---
 
+### Initiation Weekend 2025 (IW25)
+
+Date: 07/11/25 - 09/11/25\
+Venue: House of Light, Bayacas, Orgiva
