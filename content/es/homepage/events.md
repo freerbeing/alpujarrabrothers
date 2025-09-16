@@ -18,7 +18,7 @@ Lugar: House of Light, Bayacas, Orgiva
 ### Open Circle 2025
 
 Fecha: 02/10/25\
-Lugar: House of Light, Bayacas, Orgiva
+Lugar: Almendras Blancas, Las Barreras, Orgiva
 
 Una oportunidad para los hombres interesados en unirse a nosotros de forma regular para experimentar un círculo semanal.
 
